@@ -1,0 +1,35 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1,h3
+{
+    text-align : center;
+}
+h3
+{
+    background-color: black;
+    border-radius: 5px;
+    color : white;
+    font-size : 0.9em;
+    margin-bottom : 0px;
+}
+.news p 
+{
+    background-color : lightblue;
+    margin-top : 0px;
+    width: 100%;
+    border-radius: 5px;
+}
+.news 
+{
+    width : 70%;
+    margin : auto;    
+}
+a
+{
+    text-decoration : none;
+    color : blue;
+}
+#inputForm {
+    padding: 10px;
+}
